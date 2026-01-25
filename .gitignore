@@ -1,5 +1,32 @@
-venv/
+# Python cache
 __pycache__/
-*.log
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Processed data (auto-generated)
 data/processed/
+
+# Logs
+*.log
+run_log*.txt
+
+# Neo4j credentials (important)
+config.py
+
+# Test / temp
+*.tmp
+*.bak
+`
