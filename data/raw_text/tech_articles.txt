@@ -13,3 +13,21 @@ Netflix was founded by Reed Hastings and Marc Randolph. It is headquartered in L
 Oracle was founded by Larry Ellison. The company is headquartered in Austin, Texas.
 Adobe was founded by John Warnock and Charles Geschke. Adobe is based in San Jose.
 Intel was founded by Gordon Moore and Robert Noyce. Intel is headquartered in Santa Clara.
+Google acquired YouTube in 2006. YouTube is headquartered in San Bruno.
+Microsoft acquired LinkedIn in 2016. LinkedIn is based in Sunnyvale.
+Amazon acquired Whole Foods in 2017. Whole Foods is headquartered in Austin.
+Meta acquired Instagram in 2012. Instagram was founded by Kevin Systrom.
+Apple acquired Beats in 2014. Beats was founded by Dr. Dre.
+IBM acquired Red Hat in 2019. Red Hat is headquartered in Raleigh.
+Oracle acquired Sun Microsystems in 2010. Sun Microsystems was based in California.
+Salesforce acquired Slack in 2021. Slack is headquartered in San Francisco.
+Infosys was founded in 1981. The company operates in multiple countries.
+TCS provides IT services to global enterprises. It is part of Tata Sons.
+Wipro is an Indian IT company. It is headquartered in Bengaluru.
+HCL Technologies is an IT services company. It is headquartered in Noida.
+Accenture is a global consulting company. It is headquartered in Dublin.
+Capgemini is a technology services company. It is headquartered in Paris.
+Cognizant is an IT services company. It is headquartered in Teaneck.
+Tech Mahindra is an IT services company. It is headquartered in Pune.
+Zoho Corporation is a software company. It is headquartered in Chennai.
+Freshworks is a SaaS company. It is headquartered in San Mateo.
