@@ -116,28 +116,56 @@ Graph Visualization
 ## 📁 Project Structure
 
 ```text
-CLAYSYS/
+Knowledge_graph_builder/
 │
-├── app.py
-├── config.py
-├── requirements.txt
-├── README.md
+├── app.py                 # Flask UI entry point
+├── config.py              # Neo4j Aura credentials
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
 │
 ├── data/
-│   ├── raw_text/
-│   └── processed/
+│   ├── raw_text/           # Input datasets
+│   └── processed/          # Cleaned & sentence-split text
 │
 ├── src/
-│   ├── ingestion/
-│   ├── preprocessing/
-│   ├── nlp/
-│   ├── graph/
-│   └── pipeline.py
+│   ├── ingestion/          # Text loading
+│   ├── preprocessing/      # Cleaning & sentence splitting
+│   ├── nlp/                # SpaCy entity + relation extraction
+│   ├── graph/              # Neo4j insertion logic
+│   └── pipeline.py         # End-to-end pipeline
 │
-├── templates/
-├── static/
-└── screenshots/
-```
+├── templates/              # Flask HTML templates
+├── static/                 # CSS / assets
+│
+├── screenshots/            # Output evidence
+│   ├── preprocessing_output.png
+│   ├── relation_output.png
+│   └── neo4j_graph.png
+│
+└── venv/                   # Virtual environment (ignored in git)
+
+---
+
+## 🔎 Trade-offs Considered
+
+- Used rule-based relation extraction instead of LLMs to keep the system explainable and deterministic.
+- Used Neo4j Aura instead of local Neo4j to simplify setup and enable cloud deployment.
+- Chose a simple Flask UI instead of a complex frontend to focus on core pipeline reliability.
+- Focused on end-to-end system design rather than model accuracy alone.
+
+---
+
+## 📘 Colab Notebook
+
+Colab demo (pipeline explanation & outputs):  
+https://colab.research.google.com/drive/13LOWVPdd-Mh20I6DjNRRfA-8E_-J8C2V
+
+---
+
+## 🎥 Video Demonstration
+
+Unlisted YouTube demo (project explanation & live run):  
+https://youtu.be/dUegs6zYzQ8
 
 ---
 
