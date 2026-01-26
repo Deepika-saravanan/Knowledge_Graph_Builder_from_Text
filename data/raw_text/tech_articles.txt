@@ -1,8 +1,63 @@
-Elon Musk founded SpaceX in 2002. SpaceX is headquartered in California.
-Sundar Pichai is the CEO of Google. Google was founded in 1998.
-Microsoft was founded by Bill Gates and Paul Allen. It is based in Redmond.
-Amazon was founded by Jeff Bezos. The company is headquartered in Seattle.
-OpenAI is an artificial intelligence research organization. It was founded in 2015.
-Meta was founded by Mark Zuckerberg. The company is based in California.
-Apple was founded by Steve Jobs and Steve Wozniak. Apple is headquartered in Cupertino.
-Netflix was founded by Reed Hastings. Netflix is headquartered in Los Gatos.
+Elon Musk founded SpaceX in 2002. SpaceX is headquartered in California.
+Sundar Pichai is the CEO of Google. Google was founded in 1998 and is based in California.
+Microsoft was founded by Bill Gates and Paul Allen. The company is headquartered in Redmond.
+Amazon was founded by Jeff Bezos in 1994. Amazon is headquartered in Seattle.
+OpenAI is an artificial intelligence research organization. It was founded in 2015 and is based in San Francisco.
+Tesla was founded by Elon Musk. Tesla is headquartered in Texas.
+Meta was founded by Mark Zuckerberg. The company was previously known as Facebook.
+Infosys was founded by N. R. Narayana Murthy. It is headquartered in Bengaluru.
+TCS is an Indian multinational IT company. It is part of the Tata Group.
+IBM was founded in 1911. The company is headquartered in Armonk, New York.
+Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Apple is based in Cupertino.
+Netflix was founded by Reed Hastings and Marc Randolph. It is headquartered in Los Gatos.
+Oracle was founded by Larry Ellison. The company is headquartered in Austin, Texas.
+Adobe was founded by John Warnock and Charles Geschke. Adobe is based in San Jose.
+Intel was founded by Gordon Moore and Robert Noyce. Intel is headquartered in Santa Clara.
+Google acquired YouTube in 2006. YouTube is headquartered in San Bruno.
+Microsoft acquired LinkedIn in 2016. LinkedIn is based in Sunnyvale.
+Amazon acquired Whole Foods in 2017. Whole Foods is headquartered in Austin.
+Meta acquired Instagram in 2012. Instagram was founded by Kevin Systrom.
+Apple acquired Beats in 2014. Beats was founded by Dr. Dre.
+IBM acquired Red Hat in 2019. Red Hat is headquartered in Raleigh.
+Oracle acquired Sun Microsystems in 2010. Sun Microsystems was based in California.
+Salesforce acquired Slack in 2021. Slack is headquartered in San Francisco.
+Infosys was founded in 1981. The company operates in multiple countries.
+TCS provides IT services to global enterprises. It is part of Tata Sons.
+Wipro is an Indian IT company. It is headquartered in Bengaluru.
+HCL Technologies is an IT services company. It is headquartered in Noida.
+Accenture is a global consulting company. It is headquartered in Dublin.
+Capgemini is a technology services company. It is headquartered in Paris.
+Cognizant is an IT services company. It is headquartered in Teaneck.
+Tech Mahindra is an IT services company. It is headquartered in Pune.
+Zoho Corporation is a software company. It is headquartered in Chennai.
+Freshworks is a SaaS company. It is headquartered in San Mateo.
+PayPal was founded by Peter Thiel and Elon Musk. The company is headquartered in San Jose.
+Stripe is a financial technology company. It is headquartered in San Francisco.
+Airbnb was founded by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk. It is headquartered in San Francisco.
+Uber was founded by Travis Kalanick and Garrett Camp. The company is based in San Francisco.
+Dropbox was founded by Drew Houston and Arash Ferdowsi. It is headquartered in San Francisco.
+Twitter was founded by Jack Dorsey. The company is headquartered in San Francisco.
+LinkedIn was founded by Reid Hoffman. It is headquartered in Sunnyvale.
+Snapchat was founded by Evan Spiegel. It is headquartered in Santa Monica.
+Spotify was founded by Daniel Ek. The company is headquartered in Stockholm.
+Zoom was founded by Eric Yuan. It is headquartered in San Jose.
+Samsung is a multinational electronics company. It is headquartered in Seoul.
+LG is a consumer electronics company. It is headquartered in Seoul.
+Sony is a technology and entertainment company. It is headquartered in Tokyo.
+Panasonic is a multinational electronics company. It is headquartered in Osaka.
+Dell was founded by Michael Dell. The company is headquartered in Round Rock.
+HP is a technology company. It is headquartered in Palo Alto.
+Lenovo is a technology company. It is headquartered in Beijing.
+Asus is a computer hardware company. It is headquartered in Taipei.
+Acer is a computer hardware company. It is headquartered in New Taipei City.
+Huawei is a telecommunications company. It is headquartered in Shenzhen.
+Flipkart was founded by Sachin Bansal and Binny Bansal. It is headquartered in Bengaluru.
+Swiggy is a food delivery company. It is headquartered in Bengaluru.
+Zomato was founded by Deepinder Goyal. The company is headquartered in Gurugram.
+Ola was founded by Bhavish Aggarwal. The company is headquartered in Bengaluru.
+Paytm was founded by Vijay Shekhar Sharma. It is headquartered in Noida.
+Byju’s is an education technology company. It is headquartered in Bengaluru.
+Razorpay is a fintech company. It is headquartered in Bengaluru.
+PhonePe is a digital payments company. It is headquartered in Bengaluru.
+Meesho is an e-commerce company. It is headquartered in Bengaluru.
+Groww is a financial services company. It is headquartered in Bengaluru.
