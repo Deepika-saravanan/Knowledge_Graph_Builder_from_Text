@@ -143,6 +143,7 @@ Knowledge_graph_builder/
 │   └── neo4j_graph.png
 │
 └── venv/                   # Virtual environment (ignored in git)
+```
 
 ---
 
