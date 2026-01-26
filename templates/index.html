@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Knowledge Graph Builder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>Knowledge Graph Builder</h1>
+
+    <form method="POST">
+        <textarea name="text" placeholder="Paste your text here..." required></textarea>
+        <button type="submit">Build Knowledge Graph</button>
+    </form>
+    <footer>
+    Built by Deepika
+    </footer>
+
+    {% if message %}
+    <div class="message">
+        {{ message }} <br>
+        <a href="https://console.neo4j.io/tools/query" target="_blank">
+            Open graph in Neo4j Aura
+        </a>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
