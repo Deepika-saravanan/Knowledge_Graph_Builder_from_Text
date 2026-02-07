@@ -163,13 +163,6 @@ https://colab.research.google.com/drive/13LOWVPdd-Mh20I6DjNRRfA-8E_-J8C2V
 
 ---
 
-## 🎥 Video Demonstration
-
-Unlisted YouTube demo (project explanation & live run):  
-https://youtu.be/dUegs6zYzQ8
-
----
-
 ## 🧩 Design Decisions
 
 - Neo4j chosen for natural relationship representation
